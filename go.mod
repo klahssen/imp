@@ -1,1 +1,1 @@
-module github.com/klahssen/imp
+module github.com/klahssen/imp/v2
