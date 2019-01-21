@@ -2,5 +2,5 @@ package imp
 
 //constants
 const (
-	Version = "v2.0.0"
+	Version = "v2.0.1"
 )
